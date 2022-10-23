@@ -1,7 +1,6 @@
 # Web-Design-Challenge
 
-Data table created using Pandas Data Frame and printed to to HTML. Background based on other visualisations
-
+Data table created using Pandas Data Frame and printed to to HTML background then based on other images. 
 All Visualisations were based on the images provided and linking them to Index.html 
 
 <img width="1391" alt="Data_table" src="https://user-images.githubusercontent.com/91336624/197391815-fff8c4d2-e7e1-44be-b13a-d446f5f95fc4.png">
