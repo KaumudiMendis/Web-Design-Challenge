@@ -1,5 +1,7 @@
 # Web-Design-Challenge
 
+Published the page on https://kaumudimendis.github.io/Web-Design-Challenge/
+
 Data table created using Pandas Data Frame and printed to to HTML background then based on other images. 
 All Visualisations were based on the images provided and linking them to Index.html 
 
